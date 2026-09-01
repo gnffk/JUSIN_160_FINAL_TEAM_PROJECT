@@ -8,6 +8,8 @@
 
 **자체 제작 엔진으로 구현한 3D 액션 RPG 《호그와트 레거시》 모작**
 
+**[▶ 플레이 영상 보기](https://www.youtube.com/watch?v=AC3LXoQ4La8)**
+
 </div>
 
 ## 프로젝트 정보
